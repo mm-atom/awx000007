@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/awx000007",
-	"version": "1.0.0",
+	"version": "1.0.202004021828",
 	"description": "拨打电话",
 	"scripts": {
 		"test": "tsc -w",
